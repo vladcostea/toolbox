@@ -17,6 +17,7 @@ toolbox json format
 
 ### TODO
 
+- [] XML validation and formatting
 - [] YAML linting.
 - [] JSON minification
 - [] UNIX epoch / timestamp conversions
