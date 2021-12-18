@@ -17,6 +17,7 @@ toolbox json format
 
 ### TODO
 
+- [] File as input (--file)
 - [] XML validation and formatting
 - [] YAML linting.
 - [] JSON minification
