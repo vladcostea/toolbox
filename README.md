@@ -12,12 +12,14 @@ A simple webdev utility program that allows developers to quickly validate and f
 toolbox json 
 
 # Format JSON
-toolbox json format
+toolbox json --format 4
 ```
 
 ### TODO
 
+- [] Format JSON array as well as object
 - [] File as input (--file)
+- [] Ruby hash to json
 - [] XML validation and formatting
 - [] YAML linting.
 - [] JSON minification
@@ -26,3 +28,7 @@ toolbox json format
 - [] URL validation
 - [] URL parser
 - [] Simple dev server
+
+References:
+
+- https://adrianhesketh.com/2017/03/18/getting-line-and-character-positions-from-gos-json-unmarshal-errors/
